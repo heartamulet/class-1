@@ -1,0 +1,20 @@
+body {
+    background-color: #cce7ed;
+}
+
+h2 {
+    color: #4f7882;
+    font-family: cursive;
+}
+
+p {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+li {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+hr {
+    color: black;
+}
